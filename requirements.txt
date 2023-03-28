@@ -1,0 +1,5 @@
+## Contains every python library included in the project
+
+flask
+flask-smorest
+python-dotenv
